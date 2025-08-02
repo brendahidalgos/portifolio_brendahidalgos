@@ -2,3 +2,26 @@
     padding: 0px;
     margin: 0px;
 }
+:root{
+    --font-padrao: Arial, Helvetica, sans-serif;
+    --cor1:#89DADE;
+    --cor2: #5386E0;
+    --cor3: #9CB7CD;
+    --cor4: #FEE491;
+    --cor5: #FFC103;
+}
+body{
+    background-color: var(--cor3);
+}
+header{
+
+}
+nav{
+
+}
+main{
+
+}
+footer{
+    background-color: var(--cor4);
+}
